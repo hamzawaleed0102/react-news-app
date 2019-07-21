@@ -1,4 +1,4 @@
-#App Setup
+## App Setup
 1. Clone the repo.
 2. Run following commands.
 `npm install 
